@@ -19,7 +19,10 @@ React + React-Router + Redux + ES6 + Webpack
 
 ## 界面截图
 ![image][https://github.com/1239930167/MusicAndMe/blob/master/src/assets/imgs/view1.png]
+
 ![image][https://github.com/1239930167/MusicAndMe/blob/master/src/assets/imgs/view2.png]
+
 ![image][https://github.com/1239930167/MusicAndMe/blob/master/src/assets/imgs/view3.png]
+
 ![image][https://github.com/1239930167/MusicAndMe/blob/master/src/assets/imgs/view4.png]
 
