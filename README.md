@@ -15,7 +15,7 @@ React + React-Router + Redux + ES6 + Webpack
 打开 [http://localhost:3000](http://localhost:3000) 在浏览器中观看页面效果.
 
 ### `npm run build`
-在生产模式下向 build 文件夹生成项目<br>
+在生产模式下向 build 文件夹生成项目<br> 
 
 ## 界面截图
 ![image](https://github.com/1239930167/MusicAndMe/blob/master/src/assets/imgs/view1.png)
